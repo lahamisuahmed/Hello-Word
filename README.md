@@ -1,2 +1,3 @@
 # Hello-Word
-i dont know what git wants me to write here
+finally i am getting to add this readme so you can know what this project is about
+
